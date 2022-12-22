@@ -5,11 +5,11 @@
 
 Console.Clear();
 Console.WriteLine("Введите 3 числа:");
-int a = Int32.Parse(Console.ReadLine()); // Не понимаю, что за PARSE??? Буду разбираться после домашки
+int a = Int32.Parse(Console.ReadLine()); 
 int b = Int32.Parse(Console.ReadLine());
 int c = Int32.Parse(Console.ReadLine());
-int maximal = Math.Max(Math.Max(a, b), c); // Math.Max - Это нагло стырил гдетл))
-Console.WriteLine(" -> {0}", maximal); // вывод не понятно какой должен быты, толи как в задании стрелочка, или надо прям как 2, 3, 7 -> 7???
+int maximal = Math.Max(Math.Max(a, b), c); 
+Console.WriteLine(" Максимальное число -> {0}", maximal);
 
 
 
@@ -29,4 +29,4 @@ else if (y >= x && y >=z){
   else if (z >= x && z >= y){
     max = z;
   }
-Console.WriteLine("Максимальное число {0}", max );
+Console.WriteLine("Максимальное число {0}", max );*/

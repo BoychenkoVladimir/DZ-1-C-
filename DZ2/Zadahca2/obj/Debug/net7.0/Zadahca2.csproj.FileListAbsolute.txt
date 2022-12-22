@@ -1,0 +1,15 @@
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\Zadahca2.csproj.AssemblyReference.cache
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\Zadahca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\Zadahca2.AssemblyInfoInputs.cache
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\Zadahca2.AssemblyInfo.cs
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\Zadahca2.csproj.CoreCompileInputs.cache
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\bin\Debug\net7.0\Zadahca2.exe
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\bin\Debug\net7.0\Zadahca2.deps.json
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\bin\Debug\net7.0\Zadahca2.runtimeconfig.json
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\bin\Debug\net7.0\Zadahca2.dll
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\bin\Debug\net7.0\Zadahca2.pdb
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\Zadahca2.dll
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\refint\Zadahca2.dll
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\Zadahca2.pdb
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\Zadahca2.genruntimeconfig.cache
+C:\Users\XE\Desktop\DZ\DZ2\Zadahca2\obj\Debug\net7.0\ref\Zadahca2.dll
